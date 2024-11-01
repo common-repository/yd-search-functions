@@ -1,0 +1,359 @@
+# YD SEARCH FUNCTIONS PLUGIN.
+# Copyright (C) 2010 yann.com
+# This file is distributed under the same license as the yd-search-functions package.
+# FIRST AUTHOR <yann@abc.fr>, 2010.
+# <a href="http://wordpress.org/tag/yd-search-functions">
+#
+msgid ""
+msgstr ""
+"Plural-Forms: s\n"
+"Project-Id-Version: yd-search-functions\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yann Dubois <yann@abc.fr>\n"
+"Language-Team: Yann Dubois <yann@abc.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: yd-search-functions.php:134
+msgid "%b. %e, %Y"
+msgstr "%e %b. %Y"
+
+#: yd-search-functions.php:203
+#: yd-search-functions.php:233
+msgid "YD Search Functions Options"
+msgstr "Options YD Search Functions"
+
+#: yd-search-functions.php:204
+msgid "YD Search Functions"
+msgstr "YD Search Functions"
+
+#: yd-search-functions.php:214
+msgid "This will disable the link in your blog footer. If you are using this plugin on your site and like it, did you consider making a donation? -- Thanks."
+msgstr "Ceci va désactiver le lien en bas de page. Puisque vous utilisez ce plugin sur votre site et que vous l'appréciez, avez-vous envisagé de faire un don ? -- Merci."
+
+#: yd-search-functions.php:237
+msgid "Action:"
+msgstr "Action&nbsp;:"
+
+#: yd-search-functions.php:238
+msgid "I should now"
+msgstr "Je dois maintenant"
+
+#: yd-search-functions.php:239
+#: yd-search-functions.php:262
+#: yd-search-functions.php:527
+msgid "Reset widget options"
+msgstr "RAZ des options du widget"
+
+#: yd-search-functions.php:241
+msgid "Widget options are reset"
+msgstr "Les options du widget sont réinitialisées"
+
+#: yd-search-functions.php:242
+#: yd-search-functions.php:517
+msgid "Update widget options"
+msgstr "MAJ des options"
+
+#: yd-search-functions.php:244
+msgid "Widget options are updated"
+msgstr "Les options du widget sont à jour"
+
+#: yd-search-functions.php:251
+msgid "Welcome to YD Search Functions Admin Page."
+msgstr "Bienvenue dans la page d'administration de YD Search Functions"
+
+#: yd-search-functions.php:260
+msgid "Uh-oh. Looks like I lost my settings. Sorry."
+msgstr "Oh-oh, on dirait que j'ai perdu mes options. Désolé."
+
+#: yd-search-functions.php:280
+msgid "Considered donating?"
+msgstr "Envisagé de faire un don&nbsp;?"
+
+#: yd-search-functions.php:284
+msgid "Enjoy this plugin?"
+msgstr "Vous appréciez ce plugin&nbsp;?"
+
+#: yd-search-functions.php.php:284
+msgid "Help me improve it!"
+msgstr "Aidez-moi à l'améliorer&nbsp;!"
+
+#: yd-search-functions.php:289
+#: yd-search-functions.php:290
+msgid "en_US"
+msgstr "fr_FR"
+
+#: yd-search-functions.php.php:292
+msgid "Thanks"
+msgstr "Merci"
+
+#: yd-search-functions.php:299
+msgid "Disable backlink in the blog footer:"
+msgstr "Désactivation du lien en bas de page&nbsp;:"
+
+#: yd-search-functions.php:312
+#: yd-search-functions.php:918
+msgid "Most searched"
+msgstr "Top recherches"
+
+#: yd-search-functions.php:323
+msgid "Credits"
+msgstr "Crédits"
+
+#: yd-search-functions.php:325
+msgid "Initial funding"
+msgstr "Financement initial"
+
+#: yd-search-functions.php:327
+msgid "Translations"
+msgstr "Traductions"
+
+#: yd-search-functions.php:329
+msgid "English:"
+msgstr "Anglais&nbsp;:"
+
+#: yd-search-functions.php:330
+msgid "French:"
+msgstr "Français&nbsp;:"
+
+#: yd-search-functions.php:332
+msgid "If you want to contribute to a translation of this plugin, please drop me a line by "
+msgstr "Si vous voulez proposer une traduction de ce plugin, veuillez me contacter par "
+
+#: yd-search-functions.php:333
+msgid "e-mail"
+msgstr "courriel"
+
+#: yd-search-functions.php:334
+msgid "or leave a comment on the "
+msgstr "ou laissez un commentaire sur la "
+
+#: yd-search-functions.php:335
+msgid "plugin's page"
+msgstr "page du plugin"
+
+#: yd-search-functions.php:336
+msgid "You will get credit for your translation in the plugin file and the documentation page, "
+msgstr "Vous serez crédité pour votre traduction dans le fichier du plugin et sa page de documentation, "
+
+#: yd-search-functions.php:337
+msgid "as well as a link on this page and on my developers' blog."
+msgstr "et vous obtiendrez un lien sur cette page, et sur mon blog de développeur."
+
+#: yd-search-functions.php:347
+msgid "Free support"
+msgstr "Support gratuit"
+
+#: yd-search-functions.php:349
+msgid "Support page:"
+msgstr "Page de support&nbsp;:"
+
+#: yd-search-functions.php:350
+msgid "here."
+msgstr "ici."
+
+#: yd-search-functions.php:351
+msgid "(use comments!)"
+msgstr "(utilisez les commentaires&nbsp;!)"
+
+#: yd-search-functions.php:353
+msgid "Professional consulting"
+msgstr "Assistance professionnelle"
+
+#: yd-search-functions.php:354
+msgid "I am available as an experienced free-lance Wordpress plugin developer and web consultant. "
+msgstr "Je suis disponible en tant que développeur de plugins Wordpress expérimenté et consultant web. "
+
+#: yd-search-functions.php:355
+msgid "Please feel free to <a href=\"mailto:yann@abc.fr\">check with me</a> for any adaptation or specific implementation of this plugin. "
+msgstr "N'hésitez pas à <a href=\"mailto:yann@abc.fr\">me contacter</a> pour toute adaptation ou installation particulière de ce plugin. "
+
+#: yd-search-functions.php:356
+msgid "Or for any WP-related custom development or consulting work. Hourly rates available."
+msgstr "Ou pour tout développement sur mesure en rapport avec WP. Tarifs horaires disponibles."
+
+#: yd-search-functions.php:374
+msgid "Result formatting options:"
+msgstr "Options de formatage des résultats&nbsp;:"
+
+#: yd-search-functions.php:377
+msgid "Abstract text length:"
+msgstr "Longueur du texte de l'extrait&nbsp;:"
+
+#: yd-search-functions.php:381
+msgid "Minimum word length:"
+msgstr "Longueur minimum d'un mot&nbsp;:"
+
+#: yd-search-functions.php:385
+msgid "Default ellipsis:"
+msgstr "Ellipse par défaut&nbsp;:"
+
+#: yd-search-functions.php:389
+msgid "Hit highlighting:"
+msgstr "Surlignage des termes&nbsp;:"
+
+#: yd-search-functions.php:394
+msgid "Accentuation awareness:"
+msgstr "Prise en compte des accents&nbsp;:"
+
+#: yd-search-functions.php:399
+msgid "Case sensitivity:"
+msgstr "Sensibilité à la casse&nbsp;:"
+
+#: yd-search-functions.php:404
+msgid "Advanced (multi-word) highlighting:"
+msgstr "Surlignage avancé (multi-mots)&nbsp;:"
+
+#: yd-search-functions.php:409
+msgid "Before highlight:"
+msgstr "Avant surlignage&nbsp;:"
+
+#: yd-search-functions.php:413
+msgid "After highlight:"
+msgstr "Après surlignage&nbsp;:"
+
+#: yd-search-functions.php:417
+msgid "Date localization:"
+msgstr "Localisation de la date&nbsp;:"
+
+#: yd-search-functions.php:421
+msgid "Date charset:"
+msgstr "Jeu de caractères de la date&nbsp;:"
+
+#: yd-search-functions.php:425
+msgid "Date format:"
+msgstr "Format de la date&nbsp;:"
+
+#: yd-search-functions.php:428
+msgid "Uses PHP strftime() format"
+msgstr "Utilises le format strftime() de PHP"
+
+#: yd-search-functions.php:431
+msgid "Display the date:"
+msgstr "Afficher la date&nbsp;:"
+
+#: yd-search-functions.php:436
+msgid "Try to match plurals:"
+msgstr "Essayer de trouver les pluriels&nbsp;:"
+
+#: yd-search-functions.php:441
+msgid "Plural form:"
+msgstr "Forme plurielle&nbsp;:"
+
+#: yd-search-functions.php:453
+msgid "Search logging options:"
+msgstr "Options d'enregistrement des recherches&nbsp;:"
+
+#: yd-search-functions.php:458
+msgid "Enable search logging:"
+msgstr "Enregistrer les recherches&nbsp;:"
+
+#: yd-search-functions.php:463
+msgid "Search base URL:"
+msgstr "URL de base des recherches&nbsp;:"
+
+#: yd-search-functions.php:468
+msgid "List in dashboard:"
+msgstr "Lister dans le panneau d'admin&nbsp;:"
+
+#: yd-search-functions.php:471
+#: yd-search-functions.php:477
+#: yd-search-functions.php:1114
+msgid "most searched expressions"
+msgstr "expressions les plus recherchées &nbsp;:"
+
+#: yd-search-functions.php:474
+msgid "List in function:"
+msgstr "Lister dans la fonction&nbsp;:"
+
+#: yd-search-functions.php:474
+msgid "(default value)"
+msgstr "(valeur par défaut)"
+
+#: yd-search-functions.php:481
+msgid "Display row number in function listing:"
+msgstr "Indiquer le numéro d'ordre dans la liste de la fonction&nbsp;:"
+
+#: yd-search-functions.php:486
+msgid "Display count in function listing:"
+msgstr "Indiquer le décompte dans la liste de la fonction&nbsp;:"
+
+#: yd-search-functions.php:498
+msgid "Other options:"
+msgstr "Autres options&nbsp;:"
+
+#: yd-search-functions.php:503
+msgid "Debug mode:"
+msgstr "Mode débogage&nbsp;:"
+
+#: yd-search-functions.php:940
+msgid "deleted."
+msgstr "effacé."
+
+#: yd-search-functions.php:951
+msgid "banned."
+msgstr "banni."
+
+#: yd-search-functions.php:983
+msgid "Del"
+msgstr "[0]"
+
+#: yd-search-functions.php:984
+msgid "Ban"
+msgstr "[X]"
+
+#: yd-search-functions.php:989
+msgid "different searches today."
+msgstr "recherches différentes aujourd'hui."
+
+#: yd-search-functions.php:990
+msgid "different searches this week."
+msgstr "recherches différentes cette semaine."
+
+#: yd-search-functions.php:991
+msgid "different searches this month."
+msgstr "recherches différentes ce mois-ci."
+
+#: yd-search-functions.php:992
+msgid "different searches this year."
+msgstr "recherches différentes cette année."
+
+#: yd-search-functions.php:993
+msgid "different searches since "
+msgstr "recherches différentes depuis le "
+
+#: yd-search-functions.php:998
+#: yd-search-functions.php:1036
+msgid "No search data."
+msgstr "Pas de données sur la recherche."
+
+#: yd-search-functions.php:1102
+msgid "Widget title:"
+msgstr "Titre du widget&nbsp;:"
+
+#: yd-search-functions.php:1109
+msgid "List:"
+msgstr "Lister&nbsp;:"
+
+#: yd-search-functions.php:1116
+msgid "Display row number in listing:"
+msgstr "Afficher le numéro d'ordre&nbsp;:"
+
+#: yd-search-functions.php:1124
+msgid "Display count in listing:"
+msgstr "Afficher le décompte&nbsp;:"
+
+#: yd-search-functions.php:1142
+#: yd-search-functions.php:1143
+msgid "YD Most Searched"
+msgstr "YD Top-recherches"
+
+#: yd-search-functions.php:1234
+msgid "clear"
+msgstr "effacer"
+
